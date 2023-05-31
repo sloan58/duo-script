@@ -4,6 +4,7 @@
     "http-proxy": "http://10.160.200.30:8080"
   },
  "require": {
-  "duosecurity/duo_universal_php": "^1.0"
+  "duosecurity/duo_universal_php": "^1.0",
+   "ext-ldap": "*"
  }
 }
