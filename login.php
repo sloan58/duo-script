@@ -1,5 +1,7 @@
 <?php
 
+// https://github.com/duosecurity/duo_universal_php/blob/main/example/index.php
+
 use Duo\DuoUniversal\Client;
 use Duo\DuoUniversal\DuoException;
 
